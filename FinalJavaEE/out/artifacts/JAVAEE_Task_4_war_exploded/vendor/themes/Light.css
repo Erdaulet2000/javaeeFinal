@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+}
+
+navbar{
+    background-color: white;
+}
+
+.btn{
+    color: gray;
+}
+
+navbar-brand{
+    color: #6b133b;
+}
+
+.navbar-dark .navbar-brand {
+    color: #631b34;
+}
+
+.navbar-brand{
+    color: #631b34;
+    font-weight: bolder;
+}
+
+
+.navbar-dark .navbar-text a {
+    color: #631b34;
+}
+
+.navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
+    color: #631b34;
+}
+
+
+#nav {
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+
+#pub-nav-link{
+    color: gray;
+    font-weight: bolder;
+}
+
+#footer-text{
+    color: black;
+}
+
+.jumbotron{
+    background-color: white;
+    border: 1px solid #631b34;
+}
+
+.display-4{
+    color: black;
+}
+
+.lead{
+    color: black;
+}
+
+#admin{
+    height: 10%;
+    margin-right: 10px;
+}
+
+.btn{
+    margin-right: 10px;
+}
+
+
+
+#form_id{
+    width: 200px;
+    display: inline-flex;
+    margin: 5px 5px 5px 5px;
+}

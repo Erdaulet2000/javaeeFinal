@@ -1,0 +1,131 @@
+body{
+    background-color: black;
+}
+
+navbar{
+    background-color: black;
+}
+
+.btn{
+    color: white;
+    margin-right: 10px;
+
+}
+
+
+.navbar-brand{
+    color: white;
+    font-weight: bolder;
+}
+
+#nav {
+    border: 1px solid white;
+    background-color: black;
+    margin-bottom: 30px;
+}
+
+#footer-text{
+    color: white;
+}
+
+.jumbotron{
+    background-color: black;
+    border: 1px solid white;
+}
+
+#pub-nav-link{
+    color: white;
+    font-weight: bolder;
+}
+
+#card{
+    background-color: black;
+    border: 1px solid white;
+}
+
+.card-link{
+    color: white;
+}
+
+.card-title{
+    color:white;
+}
+
+.card-text{
+    color: white;
+}
+
+.card-body{
+    background-color: black;
+}
+
+.card-header{
+    background-color: black;
+}
+
+.badge{
+    color: black;
+    background-color: white;
+}
+
+.text-muted{
+    color: white;
+}
+
+#admin{
+    height: 10%;
+    margin-right: 10px;
+    border: 1px solid white;
+}
+
+.btn{
+
+}
+
+.card-img-top{
+    filter: grayscale(100%);
+}
+
+.display-4{
+    color: white;
+}
+
+#details-card{
+    background-color: black;
+}
+
+.lead{
+    color: white;
+}
+
+
+
+#form_id{
+    display: inline-flex;
+    margin: 5px 5px 5px 5px;
+}
+
+#h22{
+    color: white;
+}
+
+#h33{
+    color: white;
+}
+
+#h55{
+
+    color: white;
+}
+
+#h333{
+    color: white;
+}
+
+.pp{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}

@@ -1,0 +1,79 @@
+body{
+    background-color: #3c5162;
+}
+
+navbar{
+    background-color: #3c5162;
+}
+
+.btn{
+    color: white;
+    margin-right: 10px;
+
+}
+
+navbar-brand{
+    color: white;
+}
+
+.navbar-brand{
+color: #631b34;
+font-weight: bolder;
+}
+
+#nav {
+    border: 1px solid white;
+    background-color: #3c5162;
+    margin-bottom: 30px;
+}
+
+#footer-text{
+    color: white;
+}
+
+.jumbotron{
+    background-color: white;
+}
+
+
+#admin{
+    height: 10%;
+    margin-right: 10px;
+    border: 1px solid white;
+}
+
+.btn{
+
+}
+
+
+
+#form_id{
+    display: inline-flex;
+    margin: 5px 5px 5px 5px;
+}
+
+#h22{
+    color: white;
+}
+
+#h33{
+    color: white;
+}
+
+#h55{
+
+    color: white;
+}
+
+#h333{
+    color: white;
+}
+
+.pp{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}

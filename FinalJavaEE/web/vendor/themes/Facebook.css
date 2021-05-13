@@ -1,0 +1,107 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    background-color: #162f72;
+    margin-bottom: 5px;
+}
+
+.badge{
+    color: white;
+    background-color: #162f72;
+}
+
+.card-link{
+    color: #162f72;
+}
+
+
+.card-header{
+    background-color: white;
+}
+
+.card-body{
+    background-color: white;
+}
+
+#card-h{
+    background-color: #162f72;
+}
+
+#card-b{
+    background-color: #162f72;
+}
+
+
+.btn{
+    color: white;
+}
+
+navbar-brand{
+    color: white;
+}
+
+.navbar-dark .navbar-brand {
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: bolder;
+}
+
+
+.navbar-dark .navbar-text a {
+    color: white;
+}
+
+.navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
+    color: white;
+}
+
+
+#nav {
+    background-color: #162f72;
+    margin-bottom: 30px;
+}
+
+#footer-text{
+    color: black;
+}
+
+.jumbotron{
+    background-color: white;
+    border: 1px solid #162f72;
+}
+
+
+#pub-nav-link{
+    color: white;
+    font-weight: bolder;
+}
+
+.display-4{
+    color: #162f72;
+}
+
+.lead{
+    color: #162f72;
+}
+
+#admin{
+    height: 10%;
+    margin-right: 10px;
+}
+
+.btn{
+    margin-right: 10px;
+}
+
+
+
+#form_id{
+    width: 200px;
+    display: inline-flex;
+    margin: 5px 5px 5px 5px;
+}
